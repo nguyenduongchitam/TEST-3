@@ -1,5 +1,2 @@
 readme2 
-
-không tạo xung đột
-
-
+ tạo xung đột
